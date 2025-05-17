@@ -4,6 +4,13 @@
 
 Web developer
 -------------
+## About Me
+
+I am a passionate learner of the **ALX Software Engineering Program**, dedicated to mastering **frontend web development**.  
+My journey into software engineering is driven by my deep love for **education** and **agriculture** — two pillars that inspire me daily.
+<p align="center">
+  <em>“Technology + Purpose = Impact”</em>
+</p>
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [aeongideonite@gmail.com](mailto:aeongideonite@gmail.com)
@@ -11,6 +18,14 @@ Web developer
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Open to new ideas
 
+
+## What I’m Working On
+
+- Developing responsive, intuitive **frontend applications** with HTML, CSS, JavaScript, and React.
+- Building projects focused on **agritech** and **edtech** solutions.
+- Exploring **data visualization** to present agricultural insights effectively.
+- Collaborating on open-source initiatives that advance learning and farming technologies.
+- 
 ### Skills
 
 
@@ -25,5 +40,40 @@ Web developer
 
 <!---
 ayogideonayogideon/ayogideonayogideon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## My Vision
+
+> <!-- Insert your exact vision statement below -->
+> 
+
+## Fun Fact
+
+When I’m not coding, I enjoy mentoring young learners, coaching community projects, and exploring sustainable farming techniques.
+
+---
+
+### GitHub Stats & Activity
+
+<!-- GitHub Profile Stats -->
+![E.A Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+<!-- Top Languages Used -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+### Animated Badges & GIFs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="coding animation"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ALX-Software%20Engineering-blue?style=for-the-badge&logo=github" alt="ALX Program Badge"/>
+  <img src="https://img.shields.io/badge/Passion-Education%20%26%20Agriculture-green?style=for-the-badge&logo=seedling" alt="Passion Badge"/>
+  <img src="https://img.shields.io/badge/Frontend-Developer-yellow?style=for-the-badge&logo=react" alt="Frontend Badge"/>
+</p>
+
+---
+
+### ⭐ If you like my work, please consider following me for updates!
